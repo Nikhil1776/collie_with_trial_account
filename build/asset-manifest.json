@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7fd98f5f.css",
+    "main.js": "/static/js/main.718752c6.js",
+    "static/js/703.8b2579a8.chunk.js": "/static/js/703.8b2579a8.chunk.js",
+    "static/js/598.6f160a04.chunk.js": "/static/js/598.6f160a04.chunk.js",
+    "static/media/account.png": "/static/media/account.788710b7d8ff90f1302c.png",
+    "static/media/createwarehouse.png": "/static/media/createwarehouse.a7d2aac309b280bd9210.png",
+    "static/media/keymarkicon.png": "/static/media/keymarkicon.fe2caf9885473c9d7c2b.png",
+    "static/media/KIPI-Logo.webp": "/static/media/KIPI-Logo.0d8812942414dada3fe5.webp",
+    "index.html": "/index.html",
+    "main.7fd98f5f.css.map": "/static/css/main.7fd98f5f.css.map",
+    "main.718752c6.js.map": "/static/js/main.718752c6.js.map",
+    "703.8b2579a8.chunk.js.map": "/static/js/703.8b2579a8.chunk.js.map",
+    "598.6f160a04.chunk.js.map": "/static/js/598.6f160a04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fd98f5f.css",
+    "static/js/main.718752c6.js"
+  ]
+}
